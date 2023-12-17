@@ -1,0 +1,15 @@
+1. Think of a wearable technology device you would like to create. This could be related to your course group project, but any wearable tech idea will work.
+
+2. With your wearable tech device in mind use the Wearable Technology Designer's Web Tool (https://wearabletechwebtool.ipat.gatech.edu/)
+
+3. While you walk through answering the questions in the tool take note of how using the tool informs your decision making about early design decisions.
+
+4. Read through the .pdf produced at the completion of using the web tool.
+
+5. Upload that .pdf to this assignment
+
+6. Produce a short (1 page or less) description of some insight provided to you about your design decisions. Are there aspects of your wearable, or design choices that were impacted by using the tool? What considerations of accessibility were highlighted from your choices within the tool. 
+
+References:
+Prof. Clint Zeagler
+https://youtu.be/O2Lr_uyj4C8?si=OFGn-L_Ijt5WPdgC
