@@ -14,12 +14,12 @@ while liberating, ushers in new challenges. With users now moving
 independently and without supervision, scenarios may arise where
 the wheelchair becomes immobilized. Given that such incidents
 can also involve the user’s phone being inaccessible, there arises
-a pressing need for a sophisticated system capable of promptly detecting and alerting emergency contacts in such precarious situations.
+a pressing need for a sophisticated system capable of promptly detecting and alerting emergency contacts in such precarious situations.
 Our study introduces a modular, multisensory, seamlessly integrated,
 and assistive device designed specifically for the mobility-impaired
 audience— a wheelchair crash detection and service system. The
 presented system essentially is a planet of two overarching parts:
-system implementation and user-interface. The system implementation section comprises of four subsidiaries, each equipped with
+system implementation and user-interface. The system implementation section comprises of four subsidiaries, each equipped with
 defining sensors, control elements, buzzers, displays, speakers, and
 transducers. A notable feature of the system implementation is the
 focus on sensor-based context awareness, motivated by integrating
