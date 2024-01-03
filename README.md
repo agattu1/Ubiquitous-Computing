@@ -36,12 +36,12 @@ under the Mobile and Ubiquitous Computing (MUC) group, affiliated
 with Georgia Tech ABLE Alliance, and extends to all caregivers who
 prioritize wheelchair safety for their patients.
 
-`Teaser` 
-[![Teaser](https://img.youtube.com/vi/GDlec1zTdCY/0.jpg)](https://www.youtube.com/watch?v=GDlec1zTdCY)
+`System` 
+[![System](https://img.youtube.com/vi/GDlec1zTdCY/0.jpg)](https://www.youtube.com/watch?v=GDlec1zTdCY)
 
 
-`System`
-[![System](https://img.youtube.com/vi/X8fhdHEBDCA/0.jpg)](https://www.youtube.com/watch?v=X8fhdHEBDCA)
+`Teaser`
+[![Teaser](https://img.youtube.com/vi/X8fhdHEBDCA/0.jpg)](https://www.youtube.com/watch?v=X8fhdHEBDCA)
 
 
 
